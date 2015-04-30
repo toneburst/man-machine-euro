@@ -4,4 +4,4 @@ Firmware for proposed Eurorack format modular-synth sequencer module, inspired b
 UI will incorporate AdaFruit Bi-Color 8x8 LED Matrix
 http://www.adafruit.com/products/902
 
-Code will be written using the Arduino environment.
+Code will be written using the Arduino environment, and will run on either ATMega328 8-bit or Teensy 32-bit MCU.
